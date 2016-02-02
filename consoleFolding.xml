@@ -1,0 +1,12 @@
+<application>
+  <component name="ConsoleFoldingSettings">
+    <option name="addedPositive">
+      <list>
+        <option value="Java HotSpot(TM) 64-Bit Server VM warning: ignoring option MaxPermSize=250m; support was removed in 8.0" />
+        <option value="$APPLICATION_HOME_DIR$/bin/idea.properties: 'idea.smooth.progress' already defined /Applications/IntelliJ IDEA 14.app/Contents/bin/idea.properties: 'java.endorsed.dirs' already defined /Applications/IntelliJ IDEA 14.app/Contents/bin/idea.properties: 'apple.laf.useScreenMenuBar' already defined" />
+        <option value="[   4519]   WARN - openapi.wm.impl.ToolWindowImpl - ToolWindow icons should be 13x13. Please fix ToolWindow (ID:  PsiViewer) or icon jar:file:/Users/oroncal/Library/Caches/IntelliJIdea14/plugins-sandbox/plugins/PsiViewer__1_.jar!/images/psiToolWindow.png" />
+        <option value="$APPLICATION_HOME_DIR$/bin/idea.properties:" />
+      </list>
+    </option>
+  </component>
+</application>

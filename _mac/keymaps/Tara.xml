@@ -1,0 +1,187 @@
+<keymap version="1" name="Tara" parent="Mac OS X">
+  <action id="Ant_ed4f9767_Analytics Client_build">
+    <keyboard-shortcut first-keystroke="ctrl meta alt a" />
+  </action>
+  <action id="Ant_ed4f9767_Office Client_build">
+    <keyboard-shortcut first-keystroke="ctrl meta alt o" />
+  </action>
+  <action id="BuildArtifact">
+    <keyboard-shortcut first-keystroke="shift meta b" />
+  </action>
+  <action id="ChooseRunConfiguration">
+    <keyboard-shortcut first-keystroke="f10" />
+  </action>
+  <action id="CloseActiveTab" />
+  <action id="CloseContent">
+    <keyboard-shortcut first-keystroke="meta w" />
+  </action>
+  <action id="CodeCompletion" />
+  <action id="CollapseAll">
+    <keyboard-shortcut first-keystroke="shift meta alt c" />
+  </action>
+  <action id="CollapseAllRegions">
+    <keyboard-shortcut first-keystroke="shift meta alt c" />
+  </action>
+  <action id="CollapseRegion">
+    <keyboard-shortcut first-keystroke="meta alt c" />
+  </action>
+  <action id="CollapseTreeNode">
+    <keyboard-shortcut first-keystroke="meta alt c" />
+  </action>
+  <action id="CommentByBlockComment" />
+  <action id="CommentByLineComment">
+    <keyboard-shortcut first-keystroke="ctrl c" />
+  </action>
+  <action id="CompareDirs" />
+  <action id="CompareJars" />
+  <action id="CompareTwoFiles" />
+  <action id="Console.History.Browse" />
+  <action id="ContextHelp" />
+  <action id="CopyReference" />
+  <action id="Debugger.AddToWatch">
+    <keyboard-shortcut first-keystroke="ctrl w" />
+  </action>
+  <action id="Debugger.Tree.AddToWatches">
+    <keyboard-shortcut first-keystroke="ctrl w" />
+  </action>
+  <action id="Diff.UpdatedFiles" />
+  <action id="EditorCodeBlockEnd" />
+  <action id="EditorDecreaseFontSize">
+    <keyboard-shortcut first-keystroke="shift meta slash" />
+  </action>
+  <action id="EditorDeleteLine">
+    <keyboard-shortcut first-keystroke="meta d" />
+  </action>
+  <action id="EditorDuplicate">
+    <keyboard-shortcut first-keystroke="ctrl d" />
+  </action>
+  <action id="EditorIncreaseFontSize">
+    <keyboard-shortcut first-keystroke="meta close_bracket" />
+  </action>
+  <action id="EditorResetFontSize">
+    <keyboard-shortcut first-keystroke="meta slash" />
+  </action>
+  <action id="EditorSelectWord">
+    <keyboard-shortcut first-keystroke="shift meta w" />
+  </action>
+  <action id="EditorUnSelectWord" />
+  <action id="ExpandAll">
+    <keyboard-shortcut first-keystroke="shift meta alt e" />
+  </action>
+  <action id="ExpandAllRegions">
+    <keyboard-shortcut first-keystroke="shift meta alt e" />
+  </action>
+  <action id="ExpandRegion">
+    <keyboard-shortcut first-keystroke="meta alt e" />
+  </action>
+  <action id="ExportToTextFile" />
+  <action id="ExtractMethod">
+    <keyboard-shortcut first-keystroke="shift ctrl m" />
+  </action>
+  <action id="FindInPath">
+    <keyboard-shortcut first-keystroke="shift meta f" />
+  </action>
+  <action id="FindUsages">
+    <keyboard-shortcut first-keystroke="meta g" />
+  </action>
+  <action id="FindWordAtCaret">
+    <keyboard-shortcut first-keystroke="meta alt w" />
+  </action>
+  <action id="Generate">
+    <keyboard-shortcut first-keystroke="ctrl enter" />
+  </action>
+  <action id="GotoLine" />
+  <action id="GotoTest" />
+  <action id="IDEtalk.CollapseAll">
+    <keyboard-shortcut first-keystroke="meta alt c" />
+  </action>
+  <action id="IDEtalk.ExpandAll">
+    <keyboard-shortcut first-keystroke="meta alt e" />
+  </action>
+  <action id="Images.Editor.ActualSize">
+    <keyboard-shortcut first-keystroke="meta divide" />
+  </action>
+  <action id="Images.ShowThumbnails" />
+  <action id="ImplementMethods">
+    <keyboard-shortcut first-keystroke="ctrl i" />
+  </action>
+  <action id="Inline">
+    <keyboard-shortcut first-keystroke="shift ctrl i" />
+  </action>
+  <action id="InsertLiveTemplate">
+    <keyboard-shortcut first-keystroke="ctrl j" />
+  </action>
+  <action id="IntroduceConstant">
+    <keyboard-shortcut first-keystroke="shift ctrl c" />
+  </action>
+  <action id="IntroduceField">
+    <keyboard-shortcut first-keystroke="shift ctrl f" />
+  </action>
+  <action id="IntroduceParameter">
+    <keyboard-shortcut first-keystroke="shift ctrl p" />
+  </action>
+  <action id="IntroduceVariable">
+    <keyboard-shortcut first-keystroke="shift ctrl v" />
+  </action>
+  <action id="MakeAllJarsAction">
+    <keyboard-shortcut first-keystroke="shift meta semicolon" />
+  </action>
+  <action id="MethodDuplicates">
+    <keyboard-shortcut first-keystroke="shift ctrl d" />
+  </action>
+  <action id="NextDiff" />
+  <action id="OverrideMethods">
+    <keyboard-shortcut first-keystroke="ctrl o" />
+  </action>
+  <action id="QuickJavaDoc">
+    <mouse-shortcut keystroke="control button2" />
+  </action>
+  <action id="RecentChanges" />
+  <action id="Refactorings.QuickListPopupAction">
+    <keyboard-shortcut first-keystroke="ctrl t" />
+  </action>
+  <action id="ReformatCode">
+    <keyboard-shortcut first-keystroke="ctrl f" />
+  </action>
+  <action id="RenameElement">
+    <keyboard-shortcut first-keystroke="shift meta r" />
+  </action>
+  <action id="ReopenClosedTab">
+    <keyboard-shortcut first-keystroke="shift meta t" />
+  </action>
+  <action id="ReplaceInPath" />
+  <action id="SmartStepInto">
+    <keyboard-shortcut first-keystroke="f7" />
+  </action>
+  <action id="SmartTypeCompletion">
+    <keyboard-shortcut first-keystroke="ctrl space" />
+  </action>
+  <action id="StepInto" />
+  <action id="SurroundWith">
+    <keyboard-shortcut first-keystroke="ctrl s" />
+  </action>
+  <action id="SurroundWithLiveTemplate">
+    <keyboard-shortcut first-keystroke="shift ctrl s" />
+  </action>
+  <action id="SwitchApply">
+    <keyboard-shortcut first-keystroke="ctrl alt enter" />
+  </action>
+  <action id="SwitchDown">
+    <keyboard-shortcut first-keystroke="ctrl alt down" />
+  </action>
+  <action id="SwitchLeft">
+    <keyboard-shortcut first-keystroke="ctrl alt left" />
+  </action>
+  <action id="SwitchRight">
+    <keyboard-shortcut first-keystroke="ctrl alt right" />
+  </action>
+  <action id="SwitchUp">
+    <keyboard-shortcut first-keystroke="ctrl alt up" />
+  </action>
+  <action id="Unwrap">
+    <keyboard-shortcut first-keystroke="ctrl u" />
+  </action>
+  <action id="XPathView.Actions.Evaluate" />
+  <action id="XPathView.Actions.FindByExpression" />
+  <action id="XPathView.Actions.ShowPath" />
+</keymap>

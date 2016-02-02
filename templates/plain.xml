@@ -1,0 +1,27 @@
+<templateSet group="plain">
+  <template name="psv" value="public static void " description="public static void" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="HTML_TEXT" value="false" />
+      <option name="HTML" value="false" />
+      <option name="XSL_TEXT" value="false" />
+      <option name="XML" value="false" />
+      <option name="JAVA_CODE" value="true" />
+      <option name="JAVA_STATEMENT" value="true" />
+      <option name="JAVA_EXPRESSION" value="true" />
+      <option name="JAVA_DECLARATION" value="true" />
+      <option name="JAVA_COMMENT" value="true" />
+      <option name="JAVA_STRING" value="true" />
+      <option name="COMPLETION" value="true" />
+      <option name="OTHER" value="false" />
+    </context>
+  </template>
+  <template name="toarr" value="$NAME$.toArray(new  $TYPE$[$NAME$.size()]);" description="To Array" toReformat="false" toShortenFQNames="true">
+    <variable name="NAME" expression="iterableVariable()" defaultValue="" alwaysStopAt="true" />
+    <variable name="TYPE" expression="variableOfType(Type)" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_STATEMENT" value="true" />
+      <option name="JAVA_EXPRESSION" value="true" />
+      <option name="JAVA_DECLARATION" value="true" />
+    </context>
+  </template>
+</templateSet>
