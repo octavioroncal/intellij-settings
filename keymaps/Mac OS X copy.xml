@@ -21,8 +21,17 @@
   </action>
   <action id="EditorSelectWord" />
   <action id="FileChooser.GotoDesktop" />
+  <action id="FindUsages">
+    <keyboard-shortcut first-keystroke="alt f7" />
+    <keyboard-shortcut first-keystroke="meta g" />
+  </action>
+  <action id="GotoLine" />
   <action id="GotoTest" />
   <action id="Images.ShowThumbnails" />
+  <action id="MakeAllJarsAction">
+    <keyboard-shortcut first-keystroke="shift meta semicolon" />
+  </action>
+  <action id="NextDiff" />
   <action id="ReformatCode">
     <keyboard-shortcut first-keystroke="meta alt l" />
     <keyboard-shortcut first-keystroke="ctrl f" />
@@ -36,6 +45,11 @@
   </action>
   <action id="SendEOF" />
   <action id="ShelvedChanges.Diff" />
+  <action id="SmartStepInto">
+    <keyboard-shortcut first-keystroke="shift f7" />
+    <keyboard-shortcut first-keystroke="f7" />
+  </action>
+  <action id="StepInto" />
   <action id="SwitchApply">
     <keyboard-shortcut first-keystroke="ctrl alt enter" />
   </action>
