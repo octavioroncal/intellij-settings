@@ -72,6 +72,12 @@
       <option name="ENABLED" value="true" />
     </filter>
   </component>
+  <component name="ErrorReportConfigurable">
+    <option name="ITN_LOGIN" value="" />
+    <option name="ITN_PASSWORD_CRYPT" value="" />
+    <option name="KEEP_ITN_PASSWORD" value="false" />
+    <option name="EMAIL" value="" />
+  </component>
   <component name="ExternalResourceManagerImpl">
     <resource url="http://maven.apache.org/plugins/maven-assembly-plugin/assembly/1.1.0" location="$USER_HOME$/Library/Caches/IntelliJIdea15/extResources/489cc366_assembly-1.1.0.xsd" />
     <ignored-resource url="http://exslt.org/common" />
