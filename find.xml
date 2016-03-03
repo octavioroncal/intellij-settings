@@ -2,8 +2,10 @@
   <component name="FindSettings">
     <option name="customScope" value="Selection" />
     <option name="defaultScopeName" value="Selection" />
+    <option name="localWholeWordsOnly" value="true" />
     <option name="searchOverloadedMethods" value="true" />
     <option name="SEARCH_OVERLOADED_METHODS" value="true" />
+    <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="Selection" />
     <recentFileMasks>
       <mask>*.properties</mask>
