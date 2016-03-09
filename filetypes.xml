@@ -23,6 +23,7 @@
       <mapping pattern="TaraWizardStep" type="PLAIN_TEXT" />
       <mapping pattern="Weather-Months" type="PLAIN_TEXT" />
       <mapping pattern="TaraCodeStylePanel" type="PLAIN_TEXT" />
+      <mapping pattern="M0" type="PLAIN_TEXT" />
       <mapping pattern="MavenWizardStep" type="PLAIN_TEXT" />
       <mapping pattern="DuplicateConceptInspection" type="PLAIN_TEXT" />
       <mapping pattern="argsWin" type="PLAIN_TEXT" />
