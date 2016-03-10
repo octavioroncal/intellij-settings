@@ -9,13 +9,13 @@
       <mapping pattern="LexerAdapter" type="PLAIN_TEXT" />
       <mapping pattern="classTemplate" type="PLAIN_TEXT" />
       <mapping pattern="argsFile" type="PLAIN_TEXT" />
-      <mapping pattern="M0Test" type="PLAIN_TEXT" />
+      <mapping pattern="argsWin" type="PLAIN_TEXT" />
       <mapping pattern="in_middle_earth" type="PLAIN_TEXT" />
       <mapping pattern="Formatting" type="PLAIN_TEXT" />
       <mapping pattern="testXML" type="PLAIN_TEXT" />
       <mapping pattern="PowerGridM1" type="PLAIN_TEXT" />
       <mapping pattern="nested_frames" type="PLAIN_TEXT" />
-      <mapping pattern="Utils" type="PLAIN_TEXT" />
+      <mapping pattern="M0Test" type="PLAIN_TEXT" />
       <mapping pattern="testFile" type="PLAIN_TEXT" />
       <mapping pattern="RenameTestDataAfter" type="PLAIN_TEXT" />
       <mapping pattern="TplCreator.groovy" type="PLAIN_TEXT" />
@@ -26,7 +26,7 @@
       <mapping pattern="M0" type="PLAIN_TEXT" />
       <mapping pattern="MavenWizardStep" type="PLAIN_TEXT" />
       <mapping pattern="DuplicateConceptInspection" type="PLAIN_TEXT" />
-      <mapping pattern="argsWin" type="PLAIN_TEXT" />
+      <mapping pattern="Utils" type="PLAIN_TEXT" />
       <mapping pattern="roster" type="PLAIN_TEXT" />
       <mapping ext="tpl" type="PLAIN_TEXT" />
       <mapping ext="itrules" type="PLAIN_TEXT" />
