@@ -47,9 +47,6 @@
     <entry context="file://$USER_HOME$/workspace/tara/intellij/src/siani/tara/intellij/annotator/FacetTargetAnnotator.java" url="file://$USER_HOME$/workspace/tara/intellij/res/messages/TaraBundle.properties" />
     <entry context="file://$USER_HOME$/workspace/tara/intellij/src/siani/tara/intellij/highlighting/TaraSyntaxHighlighter.java" url="file://$USER_HOME$/workspace/tara/intellij/res/messages/TaraBundle.properties" />
   </component>
-  <component name="PropertiesRefactoringSettings">
-    <option name="RENAME_SEARCH_IN_COMMENTS" value="true" />
-  </component>
   <component name="PsiViewer.Settings">
     <option name="HIGHLIGHT_COLOR" value="162 3 229 32" />
     <option name="PLUGIN_ENABLED" value="true" />
