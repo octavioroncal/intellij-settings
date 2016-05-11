@@ -20,6 +20,9 @@
           </option>
         </PlaceSettings>
       </entry>
+      <entry key="DirDiff">
+        <PlaceSettings />
+      </entry>
       <entry key="TestsFiledAssertions">
         <PlaceSettings />
       </entry>
@@ -38,6 +41,9 @@
         </PlaceSettings>
       </entry>
       <entry key="Default">
+        <PlaceSettings />
+      </entry>
+      <entry key="DirDiff">
         <PlaceSettings />
       </entry>
       <entry key="Merge">
