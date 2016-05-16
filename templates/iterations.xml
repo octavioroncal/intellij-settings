@@ -1,0 +1,10 @@
+<templateSet group="iterations">
+  <template name="map" value="Map&lt;$TYPE1$, $TYPE2$&gt; map = new HashMap&lt;&gt;();" description="creates a new HashMap" toReformat="true" toShortenFQNames="true">
+    <variable name="TYPE1" expression="capitalize(String)" defaultValue="" alwaysStopAt="true" />
+    <variable name="TYPE2" expression="capitalize(String)" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_STATEMENT" value="true" />
+      <option name="JAVA_DECLARATION" value="true" />
+    </context>
+  </template>
+</templateSet>
