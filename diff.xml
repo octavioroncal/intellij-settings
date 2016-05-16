@@ -9,21 +9,6 @@
         <PlaceSettings />
       </entry>
       <entry key="Default">
-        <PlaceSettings>
-          <option name="DIFF_TOOLS_ORDER">
-            <list>
-              <option value="com.intellij.diff.tools.simple.SimpleDiffTool" />
-              <option value="com.intellij.diff.tools.fragmented.OnesideDiffTool" />
-              <option value="com.intellij.diff.tools.binary.BinaryDiffTool" />
-              <option value="com.intellij.diff.tools.dir.DirDiffTool" />
-            </list>
-          </option>
-        </PlaceSettings>
-      </entry>
-      <entry key="DirDiff">
-        <PlaceSettings />
-      </entry>
-      <entry key="TestsFiledAssertions">
         <PlaceSettings />
       </entry>
     </option>
