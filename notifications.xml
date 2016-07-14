@@ -3,12 +3,10 @@
     <notification groupId="Analyze thread dump" displayType="TOOL_WINDOW" shouldLog="false" />
     <notification groupId="Git Important Messages" displayType="STICKY_BALLOON" />
     <notification groupId="Git Messages" displayType="TOOL_WINDOW" />
-    <notification groupId="HotSwap" displayType="TOOL_WINDOW" />
     <notification groupId="IDE Fatal Errors" displayType="NONE" />
     <notification groupId="IDE Usage Statistics" displayType="STICKY_BALLOON" shouldLog="false" />
     <notification groupId="Language Reload" shouldLog="false" />
     <notification groupId="Maven Import" displayType="STICKY_BALLOON" />
-    <notification groupId="Plugin DevKit Deployment" shouldReadAloud="true" />
     <notification groupId="Update Checker" displayType="STICKY_BALLOON" />
   </component>
 </application>
