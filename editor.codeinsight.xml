@@ -36,7 +36,6 @@
     <EXCLUDED_PACKAGE NAME="javax.xml.soap.Node" />
     <EXCLUDED_PACKAGE NAME="junit.framework" />
     <EXCLUDED_PACKAGE NAME="org.antlr.v4.runtime.misc.NotNull" />
-    <EXCLUDED_PACKAGE NAME="org.apache" />
     <EXCLUDED_PACKAGE NAME="org.codehaus" />
     <EXCLUDED_PACKAGE NAME="org.codehaus.groovy.ast" />
     <EXCLUDED_PACKAGE NAME="org.eclipse.jdt.internal.compiler" />
