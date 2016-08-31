@@ -2,6 +2,6 @@
   <component name="ThreadsViewSettings">
     <option name="SHOW_THREAD_GROUPS" value="true" />
     <option name="SHOW_LINE_NUMBER" value="false" />
-    <option name="SHOW_PACKAGE_NAME" value="false" />
+    <option name="SHOW_SOURCE_NAME" value="true" />
   </component>
 </application>
