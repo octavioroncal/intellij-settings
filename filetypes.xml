@@ -5,6 +5,7 @@
       <mapping pattern="nested_frames" type="PLAIN_TEXT" />
       <mapping pattern="M0" type="PLAIN_TEXT" />
       <mapping pattern="functions" type="PLAIN_TEXT" />
+      <mapping pattern="argsWin" type="PLAIN_TEXT" />
       <mapping pattern="PowerGridM1" type="PLAIN_TEXT" />
       <mapping pattern="MavenWizardStep" type="PLAIN_TEXT" />
       <mapping pattern="RenameTestDataAfter" type="PLAIN_TEXT" />
@@ -15,7 +16,7 @@
       <mapping pattern="argsFile" type="PLAIN_TEXT" />
       <mapping pattern="TafatNamedElement" type="PLAIN_TEXT" />
       <mapping pattern="optional_attributes" type="PLAIN_TEXT" />
-      <mapping pattern="argsWin" type="PLAIN_TEXT" />
+      <mapping pattern="TaraWizardStep" type="PLAIN_TEXT" />
       <mapping pattern="TplCreator.groovy" type="PLAIN_TEXT" />
       <mapping pattern="roster" type="PLAIN_TEXT" />
       <mapping pattern="Utils" type="PLAIN_TEXT" />
@@ -24,13 +25,13 @@
       <mapping pattern="Weather-Months" type="PLAIN_TEXT" />
       <mapping pattern="sample" type="PLAIN_TEXT" />
       <mapping pattern="classTemplate" type="PLAIN_TEXT" />
-      <mapping pattern="TaraWizardStep" type="PLAIN_TEXT" />
       <mapping pattern="TafatBundle" type="PLAIN_TEXT" />
       <mapping pattern="TaraCodeStylePanel" type="PLAIN_TEXT" />
       <mapping pattern="in_middle_earth" type="PLAIN_TEXT" />
       <mapping pattern="Formatting" type="PLAIN_TEXT" />
       <mapping ext="tpl" type="PLAIN_TEXT" />
       <mapping ext="csv" type="PLAIN_TEXT" />
+      <mapping ext="crt" type="PLAIN_TEXT" />
       <mapping ext="text" type="PLAIN_TEXT" />
       <mapping ext="itrules" type="PLAIN_TEXT" />
       <mapping ext="mml" type="PLAIN_TEXT" />
