@@ -2,8 +2,7 @@
   <component name="libraryTable">
     <library name="JetBrains JFlex">
       <CLASSES>
-        <root url="file://$USER_HOME$/workspace/tara/ide/plugin/lib/idea-flex.skeleton" />
-        <root url="jar://$USER_HOME$/workspace/tara/ide/plugin/lib/JFlex.jar!/" />
+        <root url="jar://$USER_HOME$/workspace/tara/ide/core/tara-core/lib/JFlex.jar!/" />
       </CLASSES>
       <JAVADOC />
       <SOURCES />
