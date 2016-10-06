@@ -28,6 +28,7 @@
     <EXCLUDED_PACKAGE NAME="com.sun.tools.javac.util" />
     <EXCLUDED_PACKAGE NAME="groovyjarjarantlr.collections.AST" />
     <EXCLUDED_PACKAGE NAME="java.beans" />
+    <EXCLUDED_PACKAGE NAME="javafx.scene" />
     <EXCLUDED_PACKAGE NAME="javax.help" />
     <EXCLUDED_PACKAGE NAME="javax.naming" />
     <EXCLUDED_PACKAGE NAME="javax.print.DocFlavor.URL" />
