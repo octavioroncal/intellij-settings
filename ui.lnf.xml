@@ -10,7 +10,6 @@
     <option name="SHOW_MEMORY_INDICATOR" value="true" />
     <option name="HIDE_KNOWN_EXTENSION_IN_TABS" value="true" />
     <option name="OVERRIDE_NONIDEA_LAF_FONTS" value="true" />
-    <option name="MAX_LOOKUP_WIDTH2" value="635" />
     <option name="MAX_LOOKUP_LIST_HEIGHT" value="10" />
   </component>
 </application>
