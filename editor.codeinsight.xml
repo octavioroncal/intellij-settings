@@ -41,6 +41,7 @@
     <EXCLUDED_PACKAGE NAME="org.codehaus.groovy.ast" />
     <EXCLUDED_PACKAGE NAME="org.eclipse.jdt.internal.compiler" />
     <EXCLUDED_PACKAGE NAME="org.eclipse.jetty.server.Server" />
+    <EXCLUDED_PACKAGE NAME="org.ibex.nestedvm.util.Seekable.File" />
     <EXCLUDED_PACKAGE NAME="org.jdesktop" />
     <EXCLUDED_PACKAGE NAME="org.omg.CORBA" />
     <EXCLUDED_PACKAGE NAME="org.omg.CORBA_2_3" />
