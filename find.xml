@@ -3,9 +3,11 @@
     <option name="customScope" value="Module 'plugin'" />
     <option name="defaultScopeName" value="Module 'plugin'" />
     <option name="localCaseSensitive" value="true" />
+    <option name="localWholeWordsOnly" value="true" />
     <option name="searchOverloadedMethods" value="true" />
     <option name="SEARCH_OVERLOADED_METHODS" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
+    <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="Module 'plugin'" />
     <recentFileMasks>
       <mask>*.properties</mask>
