@@ -45,11 +45,9 @@
     <EXCLUDED_PACKAGE NAME="org.jdesktop" />
     <EXCLUDED_PACKAGE NAME="org.omg.CORBA" />
     <EXCLUDED_PACKAGE NAME="org.omg.CORBA_2_3" />
-    <EXCLUDED_PACKAGE NAME="sun.jvm" />
     <EXCLUDED_PACKAGE NAME="sun.org.mozilla" />
     <EXCLUDED_PACKAGE NAME="sun.plugin" />
     <EXCLUDED_PACKAGE NAME="sun.security" />
-    <EXCLUDED_PACKAGE NAME="sun.tools" />
     <EXCLUDED_PACKAGE NAME="tara.io.Variable.String" />
   </component>
   <component name="DaemonCodeAnalyzerSettings">
