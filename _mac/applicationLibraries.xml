@@ -1,5 +1,25 @@
 <application>
   <component name="libraryTable">
+    <library name="acceleo">
+      <CLASSES>
+        <root url="jar://$USER_HOME$/workspace/Matryoshka/lib/acceleo/org.eclipse.acceleo.engine-3.7.0-20161201.074119-4.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
+    </library>
+    <library name="eclipse">
+      <CLASSES>
+        <root url="jar://$USER_HOME$/workspace/Matryoshka/lib/emf-2.3.0-v200706262000.jar!/" />
+        <root url="jar://$USER_HOME$/workspace/Matryoshka/lib/org.eclipse.emf.common-2.11.0-v20150805-0538.jar!/" />
+        <root url="jar://$USER_HOME$/workspace/Matryoshka/lib/org.eclipse.emf.ecore-2.11.1-v20150805-0538.jar!/" />
+        <root url="jar://$USER_HOME$/workspace/Matryoshka/lib/org.eclipse.core.runtime-3.7.0.jar!/" />
+        <root url="jar://$USER_HOME$/workspace/Matryoshka/lib/org.osgi.core-6.0.0.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="jar://$USER_HOME$/workspace/Matryoshka/lib/org.osgi.core-6.0.0.jar!/OSGI-OPT/src" />
+      </SOURCES>
+    </library>
     <library name="JetBrains JFlex">
       <CLASSES>
         <root url="jar://$USER_HOME$/workspace/tara/ide/core/tara-core/lib/JFlex.jar!/" />
