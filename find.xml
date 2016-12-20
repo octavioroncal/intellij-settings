@@ -3,8 +3,11 @@
     <option name="customScope" value="Project 'Matryoshka'" />
     <option name="defaultScopeName" value="Project 'Matryoshka'" />
     <option name="searchOverloadedMethods" value="true" />
+    <option name="wholeWordsOnly" value="true" />
     <option name="SEARCH_OVERLOADED_METHODS" value="true" />
+    <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="Project 'Matryoshka'" />
+    <option name="FILE_MASK" value="*.java" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
@@ -16,8 +19,8 @@
       <mask>*.mxml</mask>
       <mask>*.txt</mask>
       <mask>*.mml</mask>
-      <mask>*.java</mask>
       <mask>*.itr</mask>
+      <mask>*.java</mask>
     </recentFileMasks>
   </component>
 </application>
