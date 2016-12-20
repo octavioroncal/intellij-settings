@@ -3,8 +3,8 @@
     <variable name="TYPE" expression="expectedType()" defaultValue="" alwaysStopAt="false" />
     <variable name="NAME" expression="camelCase(String)" defaultValue="" alwaysStopAt="false" />
     <context>
-      <option name="JAVA_DECLARATION" value="true" />
       <option name="JAVA_STATEMENT" value="true" />
+      <option name="JAVA_DECLARATION" value="true" />
     </context>
   </template>
 </templateSet>
