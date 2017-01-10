@@ -8,6 +8,7 @@
         <option value="$APPLICATION_HOME_DIR$/bin/idea.properties:" />
         <option value="[Thread-2]" />
         <option value="[main] INFO" />
+        <option value="SLF4J:" />
       </list>
     </option>
   </component>
