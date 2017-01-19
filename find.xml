@@ -5,6 +5,7 @@
     <option name="searchOverloadedMethods" value="true" />
     <option name="SEARCH_OVERLOADED_METHODS" value="true" />
     <option name="SEARCH_SCOPE" value="Project 'Matryoshka'" />
+    <option name="FILE_MASK" value="*.itr" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
