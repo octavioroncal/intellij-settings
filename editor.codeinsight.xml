@@ -20,6 +20,7 @@
     <EXCLUDED_PACKAGE NAME="apple.laf" />
     <EXCLUDED_PACKAGE NAME="com.esotericsoftware.kryo.NotNull" />
     <EXCLUDED_PACKAGE NAME="com.intellij.database" />
+    <EXCLUDED_PACKAGE NAME="com.intellij.icons.AllIcons.Welcome.Project" />
     <EXCLUDED_PACKAGE NAME="com.intellij.ide.favoritesTreeView.Concept" />
     <EXCLUDED_PACKAGE NAME="com.intellij.javaee.model.xml.Icon" />
     <EXCLUDED_PACKAGE NAME="com.intellij.lang.ASTNode" />
