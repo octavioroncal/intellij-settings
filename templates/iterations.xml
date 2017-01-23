@@ -7,4 +7,12 @@
       <option name="JAVA_DECLARATION" value="true" />
     </context>
   </template>
+  <template name="map" value="Map&lt;$TYPE$&gt; $NAME$ = new HashMap&lt;&gt;();" description="create new Map" toReformat="true" toShortenFQNames="true">
+    <variable name="TYPE" expression="expectedType()" defaultValue="" alwaysStopAt="true" />
+    <variable name="NAME" expression="camelCase(String)" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_STATEMENT" value="true" />
+      <option name="JAVA_DECLARATION" value="true" />
+    </context>
+  </template>
 </templateSet>
