@@ -37,7 +37,6 @@
     <EXCLUDED_PACKAGE NAME="javax.help" />
     <EXCLUDED_PACKAGE NAME="javax.naming" />
     <EXCLUDED_PACKAGE NAME="javax.print.DocFlavor.URL" />
-    <EXCLUDED_PACKAGE NAME="javax.swing" />
     <EXCLUDED_PACKAGE NAME="javax.xml.soap.Node" />
     <EXCLUDED_PACKAGE NAME="junit.framework" />
     <EXCLUDED_PACKAGE NAME="org.antlr.v4.runtime.misc.NotNull" />
@@ -60,6 +59,5 @@
   </component>
   <component name="JavaCodeFoldingSettings">
     <option name="collapseEndOfLineComments" value="true" />
-    <option name="COLLAPSE_END_OF_LINE_COMMENTS" value="true" />
   </component>
 </application>
