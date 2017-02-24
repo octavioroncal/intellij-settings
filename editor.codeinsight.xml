@@ -20,23 +20,29 @@
     <EXCLUDED_PACKAGE NAME="apple.laf" />
     <EXCLUDED_PACKAGE NAME="com.esotericsoftware.kryo.NotNull" />
     <EXCLUDED_PACKAGE NAME="com.intellij.database" />
+    <EXCLUDED_PACKAGE NAME="com.intellij.icons.AllIcons.Welcome.Project" />
     <EXCLUDED_PACKAGE NAME="com.intellij.ide.favoritesTreeView.Concept" />
     <EXCLUDED_PACKAGE NAME="com.intellij.javaee.model.xml.Icon" />
     <EXCLUDED_PACKAGE NAME="com.intellij.lang.ASTNode" />
+    <EXCLUDED_PACKAGE NAME="com.sun.corba.se.impl.orbutil.graph.Graph" />
     <EXCLUDED_PACKAGE NAME="com.sun.istack" />
     <EXCLUDED_PACKAGE NAME="com.sun.java.util.jar.pack.Package.File" />
+    <EXCLUDED_PACKAGE NAME="com.sun.javafx" />
+    <EXCLUDED_PACKAGE NAME="com.sun.tools.internal.xjc.reader.gbind.Graph" />
     <EXCLUDED_PACKAGE NAME="com.sun.tools.javac.util" />
+    <EXCLUDED_PACKAGE NAME="com.sun.xml.internal.xsom.impl.scd.Iterators.Map" />
     <EXCLUDED_PACKAGE NAME="groovyjarjarantlr.collections.AST" />
     <EXCLUDED_PACKAGE NAME="java.beans" />
     <EXCLUDED_PACKAGE NAME="javafx.scene" />
     <EXCLUDED_PACKAGE NAME="javax.help" />
     <EXCLUDED_PACKAGE NAME="javax.naming" />
     <EXCLUDED_PACKAGE NAME="javax.print.DocFlavor.URL" />
-    <EXCLUDED_PACKAGE NAME="javax.swing" />
     <EXCLUDED_PACKAGE NAME="javax.xml.soap.Node" />
     <EXCLUDED_PACKAGE NAME="junit.framework" />
     <EXCLUDED_PACKAGE NAME="org.antlr.v4.runtime.misc.NotNull" />
     <EXCLUDED_PACKAGE NAME="org.apache.activemq.spring" />
+    <EXCLUDED_PACKAGE NAME="org.apache.maven.project.builder.ProjectUri.Profiles.Profile.Activation.File" />
+    <EXCLUDED_PACKAGE NAME="org.apache.maven.project.builder.profile.ProfileUri.Profiles.Profile.Activation.File" />
     <EXCLUDED_PACKAGE NAME="org.codehaus" />
     <EXCLUDED_PACKAGE NAME="org.codehaus.groovy.ast" />
     <EXCLUDED_PACKAGE NAME="org.eclipse.jdt.internal.compiler" />
@@ -55,6 +61,5 @@
   </component>
   <component name="JavaCodeFoldingSettings">
     <option name="collapseEndOfLineComments" value="true" />
-    <option name="COLLAPSE_END_OF_LINE_COMMENTS" value="true" />
   </component>
 </application>
