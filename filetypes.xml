@@ -34,11 +34,11 @@
       <mapping ext="csv" type="PLAIN_TEXT" />
       <mapping ext="crt" type="PLAIN_TEXT" />
       <mapping ext="text" type="PLAIN_TEXT" />
-      <mapping ext="f" type="PLAIN_TEXT" />
       <mapping ext="m2" type="PLAIN_TEXT" />
       <mapping ext="mml" type="PLAIN_TEXT" />
       <mapping ext="tlp" type="PLAIN_TEXT" />
       <mapping ext="dsl" type="PLAIN_TEXT" />
+      <mapping ext="f" type="PLAIN_TEXT" />
       <mapping ext="props" type="PLAIN_TEXT" />
       <mapping ext="arff" type="PLAIN_TEXT" />
     </extensionMap>
