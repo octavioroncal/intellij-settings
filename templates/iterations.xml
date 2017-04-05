@@ -1,0 +1,19 @@
+<templateSet group="iterations">
+  <template name="list" value="List&lt;$TYPE$&gt; $NAME$ = new ArrayList&lt;&gt;();" description="new List" toReformat="true" toShortenFQNames="true">
+    <variable name="TYPE" expression="className()" defaultValue="" alwaysStopAt="true" />
+    <variable name="NAME" expression="suggestVariableName()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_STATEMENT" value="true" />
+      <option name="JAVA_DECLARATION" value="true" />
+    </context>
+  </template>
+  <template name="map" value="Map&lt;$TYPE1$, $TYPE2$&gt; $NAME$ = new HashMap&lt;&gt;();" description="new Map" toReformat="true" toShortenFQNames="true">
+    <variable name="TYPE1" expression="className()" defaultValue="String" alwaysStopAt="true" />
+    <variable name="TYPE2" expression="className()" defaultValue="" alwaysStopAt="true" />
+    <variable name="NAME" expression="suggestVariableName()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_STATEMENT" value="true" />
+      <option name="JAVA_DECLARATION" value="true" />
+    </context>
+  </template>
+</templateSet>
