@@ -54,6 +54,7 @@
     <EXCLUDED_PACKAGE NAME="sun.org.mozilla" />
     <EXCLUDED_PACKAGE NAME="sun.plugin" />
     <EXCLUDED_PACKAGE NAME="sun.security" />
+    <EXCLUDED_PACKAGE NAME="sun.util.logging.PlatformLogger.Level" />
     <EXCLUDED_PACKAGE NAME="tara.io.Variable.String" />
   </component>
   <component name="DaemonCodeAnalyzerSettings">
