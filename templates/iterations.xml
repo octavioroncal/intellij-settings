@@ -4,6 +4,8 @@
     <variable name="NAME" expression="suggestVariableName()" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JAVA_STATEMENT" value="true" />
+      <option name="COMPLETION" value="true" />
+      <option name="JAVA_EXPRESSION" value="true" />
       <option name="JAVA_DECLARATION" value="true" />
     </context>
   </template>
@@ -12,8 +14,8 @@
     <variable name="TYPE2" expression="className()" defaultValue="" alwaysStopAt="true" />
     <variable name="NAME" expression="suggestVariableName()" defaultValue="" alwaysStopAt="true" />
     <context>
-      <option name="JAVA_STATEMENT" value="true" />
       <option name="JAVA_DECLARATION" value="true" />
+      <option name="JAVA_STATEMENT" value="true" />
     </context>
   </template>
 </templateSet>
