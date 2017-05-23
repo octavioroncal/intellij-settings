@@ -1,0 +1,78 @@
+<keymap version="1" name="Octavio" parent="Mac OS X">
+  <action id="BuildArtifact">
+    <keyboard-shortcut first-keystroke="shift meta b" />
+  </action>
+  <action id="CloseContent">
+    <keyboard-shortcut first-keystroke="meta f4" />
+    <keyboard-shortcut first-keystroke="meta w" />
+  </action>
+  <action id="CommentByLineComment">
+    <keyboard-shortcut first-keystroke="meta slash" />
+    <keyboard-shortcut first-keystroke="ctrl c" />
+  </action>
+  <action id="CompareTwoFiles" />
+  <action id="ContextHelp" />
+  <action id="Debugger.AddToWatch">
+    <keyboard-shortcut first-keystroke="ctrl w" />
+  </action>
+  <action id="Diff.ShowDiff" />
+  <action id="EditorDeleteLine">
+    <keyboard-shortcut first-keystroke="meta d" />
+    <keyboard-shortcut first-keystroke="meta y" />
+  </action>
+  <action id="EditorDuplicate">
+    <keyboard-shortcut first-keystroke="ctrl d" />
+  </action>
+  <action id="EditorSelectWord" />
+  <action id="FileChooser.GotoDesktop" />
+  <action id="FindUsages">
+    <keyboard-shortcut first-keystroke="alt f7" />
+    <keyboard-shortcut first-keystroke="meta g" />
+  </action>
+  <action id="GotoLine" />
+  <action id="GotoTest" />
+  <action id="Images.ShowThumbnails" />
+  <action id="MakeAllJarsAction">
+    <keyboard-shortcut first-keystroke="shift meta semicolon" />
+    <keyboard-shortcut first-keystroke="shift meta n_with_tilde" />
+  </action>
+  <action id="NextDiff" />
+  <action id="ReformatCode">
+    <keyboard-shortcut first-keystroke="meta alt l" />
+    <keyboard-shortcut first-keystroke="ctrl f" />
+  </action>
+  <action id="RenameElement">
+    <keyboard-shortcut first-keystroke="shift f6" />
+    <keyboard-shortcut first-keystroke="shift meta r" />
+  </action>
+  <action id="ReopenClosedTab">
+    <keyboard-shortcut first-keystroke="shift meta t" />
+  </action>
+  <action id="SendEOF" />
+  <action id="ShelvedChanges.Diff" />
+  <action id="ShowProjectStructureSettings">
+    <keyboard-shortcut first-keystroke="meta semicolon" />
+    <keyboard-shortcut first-keystroke="meta n_with_tilde" />
+  </action>
+  <action id="ShowRecentTests" />
+  <action id="SmartStepInto">
+    <keyboard-shortcut first-keystroke="shift f7" />
+    <keyboard-shortcut first-keystroke="f7" />
+  </action>
+  <action id="StepInto" />
+  <action id="SwitchApply">
+    <keyboard-shortcut first-keystroke="ctrl alt enter" />
+  </action>
+  <action id="SwitchDown">
+    <keyboard-shortcut first-keystroke="ctrl alt down" />
+  </action>
+  <action id="SwitchLeft">
+    <keyboard-shortcut first-keystroke="ctrl alt left" />
+  </action>
+  <action id="SwitchRight">
+    <keyboard-shortcut first-keystroke="ctrl alt right" />
+  </action>
+  <action id="SwitchUp">
+    <keyboard-shortcut first-keystroke="ctrl alt up" />
+  </action>
+</keymap>
