@@ -1,0 +1,9 @@
+<keymap version="1" name="Mac OS X copy" parent="Mac OS X">
+  <action id="MakeAllJarsAction">
+    <keyboard-shortcut first-keystroke="shift meta n_with_tilde" />
+  </action>
+  <action id="ShowProjectStructureSettings">
+    <keyboard-shortcut first-keystroke="meta semicolon" />
+    <keyboard-shortcut first-keystroke="meta n_with_tilde" />
+  </action>
+</keymap>
